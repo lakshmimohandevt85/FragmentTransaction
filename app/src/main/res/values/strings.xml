@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">FragmentTransaction</string>
+
+    <string name="select_activity">Select Activity</string>
+    <string name="country_india">India</string>
+    <string name="country_usa">USA</string>
+    <string name="country_mexico">Mexico</string>
+    <string name="backButton">BACK</string>
+    <string name="hideButton">HIDE</string>
+    <string name="back_button">BACK</string>
+    <string name="goButton">GO</string>
+    <string name="set_button">SET</string>
+    <string name="mainActivity">Main Activity</string>
+    <string name="timeActivity">Time Activity</string>
+    <string name="listActivity">List Activity</string>
+    <string name="keyBoardActivity">KeyBoard Activity</string>
+
+    <string-array name="activity_names">
+        <item>TimerActivity</item>
+        <item>KeyboardActivity</item>
+        <item>ListActivity</item>
+
+    </string-array>
+
+    <string-array name="country_names">
+        <item>India</item>
+        <item>USA</item>
+        <item>Mexico</item>
+    </string-array>
+
+    <string-array name="India">
+        <item>Cricket</item>
+        <item>Chess</item>
+        <item>Badminton</item>
+        <item>Field Hockey</item>
+        <item>Football</item>
+        <item>Tennis</item>
+        <item>Gilli-danda</item>
+        <item>Golf</item>
+    </string-array>
+
+    <string-array name ="USA">
+        <item>BaseBall</item>
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Basketball</item>
+        <item>Soccer</item>
+        <item>Golf</item>
+        <item>Skateboarding</item>
+    </string-array>
+
+    <string-array name ="Mexico">
+        <item>Baseball</item>
+        <item>Football</item>
+        <item>Boxing</item>
+        <item>Charreria</item>
+        <item>Bullfighting</item>
+        <item>Basque Pelota</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
